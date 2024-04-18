@@ -32,5 +32,11 @@ nav{
  .nav-left ul li img{
   width: 28px;
   margin: 0 15px;
+
+ }
+ .p-right{
   
+  width: 160px;
+  border-radius: 60px;
+  margin-right: 45px;
  }
